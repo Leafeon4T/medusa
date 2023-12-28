@@ -1,2 +1,1 @@
-# weltweit
-Repository for weltweit
+# Repository for Weltweit
